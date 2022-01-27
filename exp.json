@@ -1,11 +1,10 @@
 [
-    {
-      "Name" : {
+    "data":{ {
         "Attribute" : "anand",
         "Attribute2" : " bharti",
         "Attribute3" : " Value3"
       }
-     , "Name2" : {
+     , {
       "Attribute" : " ANAND",
         "Attribute2" : " BHARTI",
         "Attribute3" : " V3"
