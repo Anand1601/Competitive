@@ -1,5 +1,5 @@
-[
-    "data":{ {
+{
+    "data":[ {
         "Attribute" : "anand",
         "Attribute2" : " bharti",
         "Attribute3" : " Value3"
@@ -10,5 +10,5 @@
         "Attribute3" : " V3"
       }
   
-    }
-]
+    ]
+}
